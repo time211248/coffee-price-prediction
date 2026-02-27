@@ -1,1 +1,1 @@
-# coffee-price-prediction
+Initial commit - coffee price prediction project
